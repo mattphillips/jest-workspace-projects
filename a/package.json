@@ -1,7 +1,7 @@
 {
   "name": "a",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/Foo/Foo.ts",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^24.0.21",
